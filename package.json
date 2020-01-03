@@ -1,0 +1,29 @@
+{
+  "name": "shridb",
+  "version": "1.0.0",
+  "description": "The .json file & promise based javascript database for nodejs, nwjs, electron etc...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15"
+  },
+  "keywords": [
+    "json-database",
+    "db",
+    "storage",
+    "lodash",
+    "file-extra",
+    "nodejs",
+    "embeddable",
+    "javascript-database",
+    "json db"
+  ],
+  "contributors": [
+    "Govind Sham Bhumkar"
+  ],
+  "author": "Govind Sham Bhumkar <gbhumkar1@gmail.com>",
+  "license": "MIT"
+}
